@@ -1,8 +1,7 @@
 ### Hi there 👋 
 
 [![Website](https://img.shields.io/website?label=cpnsonline.id&style=for-the-badge&url=https%3A%2F%2Fcpnsonline.id)](https://cpnsonline.id)
-[![Website](https://img.shields.io/website?label=app.cpnsonline.id&style=for-the-badge&url=https%3A%2F%2Fapp.cpnsonline.id)](https://app.cpnsonline.id)
-[![Website](https://img.shields.io/website?label=api.cpnsonline.id&style=for-the-badge&url=https%3A%2F%2Fapi.cpnsonline.id)](https://api.cpnsonline.id)
+[![Website](https://img.shields.io/website?label=adhigama.education&style=for-the-badge&url=https%3A%2F%2Fadhigama.education)](https://adhigama.education)
 
 ### Connect with me:
 
